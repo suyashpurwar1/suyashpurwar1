@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Codehelp](https://img.shields.io/badge/Codehelp-%23000000?style=for-the-badge&logo=github)
+![Codehelp](https://img.shields.io/badge/Codehelp-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ## __World of Git :octocat:__   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suyashpurwar1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
