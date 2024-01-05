@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **suyashpurwar1/suyashpurwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## __👋Hi I'm Suyash__
+- 🔭 I’m currently working on honing my skills in MERN stack development and diving into the exciting world of machine learning.
+- 🌱 I’m currently learning about the intricacies of MERN (MongoDB, Express.js, React, Node.js) stack and deepening my understanding of machine learning algorithms.
+- 👯 I’m looking to collaborate on innovative projects that involve web development and machine learning.
+- 🤔 I’m looking for help with staying updated on the latest trends and best practices in MERN stack and machine learning.
+- 💬 Ask me about anything related to JavaScript, React, Node.js, or my journey in machine learning.
+- 📫 How to reach me: [suyashpurwar1@gmail.com](mailto:suyashpurwar1@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/suyashpurwar).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring new technologies and finding creative solutions to challenges.
+
+
+## __Technologies__
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
 ## __My Gurus🙏__
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
@@ -36,4 +56,6 @@ Here are some ideas to get you started:
 ## __Things to proud of🔥__  
 
 ![](https://leetcard.jacoblin.cool/Suyash_Purwar?ext=contest)
+
+
 
