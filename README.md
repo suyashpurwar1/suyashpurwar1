@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Codehelp](https://img.shields.io/badge/Codehelp-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
+## __Things to proud of🔥__  
+
+![](https://leetcard.jacoblin.cool/Suyash_Purwar?ext=contest)
+
 ## __World of Git :octocat:__   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suyashpurwar1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -56,9 +60,7 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suyashpurwar1&theme=tokyonight&utcOffset=8)
 
-## __Things to proud of🔥__  
 
-![](https://leetcard.jacoblin.cool/Suyash_Purwar?ext=contest)
 
 
 
