@@ -34,12 +34,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suyashpurwar1&theme=tokyonight&utcOffset=8)
 
 ## __Things to proud of🔥__  
-[![@suyashpurwar1's Holopin board](https://holopin.me/suyashpurwar1)](https://holopin.io/@suyashpurwar1)
-
-![](https://github-profile-trophy.vercel.app/?username=suyashpurwar1&theme=tokyonight)
 
 ![](https://leetcard.jacoblin.cool/Suyash_Purwar?ext=contest)
 
-![](https://user-images.githubusercontent.com/91800813/236804697-b2f7a463-f1fe-4429-b5fb-4864d9614ccc.png)
-
-![](https://user-images.githubusercontent.com/91800813/236803971-d2f9ba79-b1ed-4e74-aac6-cd0cd031765c.png)
