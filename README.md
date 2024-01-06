@@ -2,11 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Suyash Purwar</h1>
-<h3 align="center">A passionate MERN stack developer and machine learning enthusiast from India</h3>
+<h3 align="center">A passionate MERN stack developer and machine learning enthusiast from India.</h3>
 
-<p align="center">
-  <a href="https://twitter.com/suyashpurwar1" target="blank"><img src="https://img.shields.io/twitter/follow/suyashpurwar1?logo=twitter&style=for-the-badge" alt="suyashpurwar1" /></a>
-</p>
 
 - 🔭 I’m currently working on honing my skills in MERN stack development and diving into the exciting world of machine learning.
   
