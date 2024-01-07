@@ -67,3 +67,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suyashpurwar1&theme=tokyonight" height="155" alt="Most Used Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyashpurwar1&theme=tokyonight" height="155" alt="Profile Details" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/suyashpurwar1/count.svg?"  />
+</div>
+
+###
+
+
