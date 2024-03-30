@@ -56,6 +56,7 @@
 <h3 align="center">Things to be proud of 🔥</h3>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Suyash_Purwar?theme=dark" alt="Leetcode Stats">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Suyash_Purwar&theme=black" alt="LeetCode Badges"/>
 </div>
 
 <h3 align="center">World of Git :octocat:</h3>
